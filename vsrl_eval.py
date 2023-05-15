@@ -1,5 +1,7 @@
 # AUTORIGHTS
 # ---------------------------------------------------------
+# Copyright (c) 2023, Sanghyun Kim
+# This code is based on v-coco (https://github.com/s-gupta/v-coco)
 # Copyright (c) 2017, Saurabh Gupta
 #
 # This file is part of the VCOCO dataset hooks and is available
